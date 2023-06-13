@@ -34,4 +34,5 @@ public class Cliente {
         this.destino = destino;
     }
 
+    //ESPACIO PARA METODOS
 }
