@@ -45,5 +45,7 @@ public class Persona{
     }
 
     //ESPACIO PARA METODOS
-
+    public void respirar(){
+        System.out.println("Hola soy "+this.nombre+" y estoy respirando" );
+    }
 }
